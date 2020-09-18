@@ -1,0 +1,46 @@
+*{
+    margin: 0px;
+    padding:0;
+}
+body{
+    font-family: sans-serif;
+}
+#nav-bar{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+}
+.navbar{
+    background: ;
+}
+.sing-in{
+    background: #21B573;
+    border-radius: 25px;
+    border: none;
+    padding: 9px 25px;
+}
+.logo{
+    width: 20%;
+}
+.a{
+    color: rgb(22, 138, 99);
+}
+.get-started{
+    background: #21B573;
+    border-radius: 33px;
+    border: none;
+    padding: 9px 25px;
+}
+.background{
+    background: #F0FFF0;
+}
+.cat1, .cat2, .cat3{
+    
+    padding: 10px 30px;
+    border-radius: 10px;
+    
+}
+.categories img{
+    width:250px;
+    
+}
